@@ -1,0 +1,6 @@
+C:/Users/Kimi/Documents/Projektit/Teht1/build/CMakeFiles/Teht1.dir
+C:/Users/Kimi/Documents/Projektit/Teht1/build/CMakeFiles/edit_cache.dir
+C:/Users/Kimi/Documents/Projektit/Teht1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Kimi/Documents/Projektit/Teht1/build/CMakeFiles/list_install_components.dir
+C:/Users/Kimi/Documents/Projektit/Teht1/build/CMakeFiles/install.dir
+C:/Users/Kimi/Documents/Projektit/Teht1/build/CMakeFiles/install/local.dir

@@ -1,4 +1,4 @@
-/* Olio-ohjelmointi, tehtävä 1
+/* Olio-ohjelmointi, tehtävä 2
  * Tekijä: Kimi Sarkkila TVT24SPO */
 
 #include <iostream>

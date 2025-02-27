@@ -10,3 +10,4 @@ Tekijä: <b>Kimi Sarkkila TVT24SPO</b>
 <li><a href="https://github.com/basap/olio-ohjelmointi/blob/main/Teht%C3%A4v%C3%A4%205">Viikkotehtävä 5</a> - Notifikaattori, palautettu 7.2.2025</li>
 <li><a href="https://github.com/basap/olio-ohjelmointi/blob/main/Teht%C3%A4v%C3%A4%206">Viikkotehtävä 6</a> - Standardikirjasto, palautettu 14.2.2025</li>
 <li><a href="https://github.com/basap/olio-ohjelmointi/blob/main/Teht%C3%A4v%C3%A4%207">Viikkotehtävä 7</a> - Qt-laskin, palautettu 21.2.2025</li>
+<li><a href="https://github.com/basap/olio-ohjelmointi/blob/main/Teht%C3%A4v%C3%A4%208">Viikkotehtävä 8</a> - Shakkikello, palautettu 27.2.2025</li>
